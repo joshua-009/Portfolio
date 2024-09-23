@@ -8,7 +8,7 @@ function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <div>
           <Link href="/" className="text-xl hover:text-slate-200">
-            Ranjith Kumar
+    Joshua Dsouza
           </Link>
         </div>
         <ul className="flex items-center gap-2 justify-end text-sm">
@@ -18,15 +18,7 @@ function Navbar() {
               <span className="hidden md:block">Art Gallery</span>
             </Link>
           </Button> */}
-          <Button asChild>
-            <Link
-              href="/contact"
-              className="px-4 py-1 bg-slate-800 rounded-md w-12 md:w-32 text-center hover:bg-slate-700 transition-colors"
-            >
-              <Icon.Envelope className="md:hidden" />
-              <span className="hidden md:block">Get in touch</span>
-            </Link>
-          </Button>
+          
         </ul>
       </div>
     </nav>

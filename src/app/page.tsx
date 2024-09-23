@@ -18,7 +18,7 @@ export default function HomePage({ searchParams }: HomePageProps) {
       <Projects params={searchParams} />
       {/* <Experience /> */}
       {/* <Talks /> */}
-      <Achievements params={searchParams} />
+      {/* <Achievements params={searchParams} /> */}
     </main>
   )
 }

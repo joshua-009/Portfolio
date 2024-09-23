@@ -11,11 +11,11 @@ function Home() {
     <main className="flex flex-col-reverse xl:flex-row items-center gap-16 py-8">
       <div className="flex flex-col gap-8">
         <div className="flex flex-col gap-4">
-          <H1>Ranjith Kumar</H1>
+          <H1>Joshua Dsouza</H1>
           <div className="flex flex-col gap-4">
             <p>
               
-I develop websites using the MERN stack and Tailwind CSS, focusing on building dynamic and responsive web applications. I am also passionate about networking and work on projects related to the same.
+ I am a passionate Computer Science Engineer bearing minimal Web Development Skills. I am also interested in Networking and work on related projects.
             </p>
             {/* <p>
               I love exploring new technologies, mess around with them, and

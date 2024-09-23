@@ -14,7 +14,7 @@ function TechStack() {
           <Icon.Python />
         </div>
         <div className="col-span-5 md:col-span-3 flex flex-wrap py-8 gap-8 outline outline-1 -outline-offset-4 outline-slate-700 px-4 items-center">
-          <Icon.Linux />
+          
           <Icon.Git />
           <Icon.GitHub />
           <Icon.MongoDB />
@@ -26,7 +26,7 @@ function TechStack() {
         </div>
         <div className="col-span-5 flex flex-wrap py-8 gap-8 outline outline-1 -outline-offset-4 outline-slate-700 px-4 items-center">
           <Icon.React />
-          <Icon.Tailwind />
+         
           <Icon.NodeJs />
           <Icon.Express />
         </div>
